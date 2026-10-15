@@ -1,8 +1,3 @@
-import chromadb
-import requests
-from sentence_transformers import SentenceTransformer
-
-# ============ 配置 ============
 import os
 import chromadb
 import requests
